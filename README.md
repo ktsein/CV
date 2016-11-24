@@ -24,3 +24,10 @@ Project | Description | Timeframe | Technologies | Testing
 ## Education
 
 #### Makers Academy (August 2016 to December 2016)
+
+A 16-week full stack web development bootcamp
+
+- Agile methodologies
+- Test driven development
+- Software Craftsmanship
+- Javascript, Ruby/Rails
