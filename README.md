@@ -55,5 +55,5 @@ A 16-week full stack web development bootcamp
 *Graduate Manufacturing Engineer*
 
 **Gilber Gilkes and Gordon** (March 2015 to April 2015)
- 
+
 *Systems Engineer Intern*
