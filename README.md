@@ -52,5 +52,5 @@ A 16-week full stack web development bootcamp
 **Croft Filters** (April 2015 to February 2016)
 *Graduate Manufacturing Engineer*
 
-**Gilber Gilkes and Gordon** (March 2015 to April 2015)
+**Gilber Gilkes and Gordon** (March 2015 to April 2015) 
 *Systems Engineer Intern*
