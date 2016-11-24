@@ -31,3 +31,13 @@ A 16-week full stack web development bootcamp
 - Test driven development
 - Software Craftsmanship
 - Javascript, Ruby/Rails
+
+#### Lancaster University (October 2014 to May 2016)
+
+**MSc International Innovation (Engineering)**
+*Distinction*
+
+#### University of Glasgow (September 2010 to May 2014)
+
+**BEng Mechanical Engineering**
+*First-class honours*
