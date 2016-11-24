@@ -47,10 +47,13 @@ A 16-week full stack web development bootcamp
 ## Experience
 
 **FabLab London** (June 2016 to August 2016)
+
 *Maker in Residence*
 
 **Croft Filters** (April 2015 to February 2016)
+
 *Graduate Manufacturing Engineer*
 
-**Gilber Gilkes and Gordon** (March 2015 to April 2015) 
+**Gilber Gilkes and Gordon** (March 2015 to April 2015)
+ 
 *Systems Engineer Intern*
