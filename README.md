@@ -36,10 +36,21 @@ A 16-week full stack web development bootcamp
 
 **MSc International Innovation (Engineering)**
 
-*Distinction*
+*Distinction*, *Santander Big Idea Award*, *Innovation Champion of 2015 Award*
 
 #### University of Glasgow (September 2010 to May 2014)
 
 **BEng Mechanical Engineering**
 
 *First-class honours*
+
+## Experience
+
+**FabLab London** (June 2016 to August 2016)
+*Maker in Residence*
+
+**Croft Filters** (April 2015 to February 2016)
+*Graduate Manufacturing Engineer*
+
+**Gilber Gilkes and Gordon** (March 2015 to April 2015)
+*Systems Engineer Intern*
