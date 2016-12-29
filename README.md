@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Porfolio] (https://kyawtunsein.com/portfolio/) | [LinkedIn] (https://uk.linkedin.com/in/kyawtunsein)
 
-Background Info , About me
+I am Kyaw.
 
 ##Skills
 
@@ -19,7 +19,8 @@ Background Info , About me
 
 Project | Description | Timeframe | Technologies | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
-
+[FloatingPointVR](https://www.youtube.com/watch?v=XFBpKRfyup4)| Virtual Reality City Building Game| 10 days | C#|
+[WakeyWakey](https://github.com/meeshyep/Wakey-Wakey-)| Alarm Clock App without Switch Off Button | 5 days | React Native | Jest
 
 ## Education
 
