@@ -2,7 +2,9 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Porfolio] (https://kyawtunsein.com/portfolio/) | [LinkedIn] (https://uk.linkedin.com/in/kyawtunsein)
 
-I love technology and design. My dream is to build products that benefit millions of people. Before Makers Academy, I enjoy making physical things. I built a wide range of things from a [bioreactor](https://kyawtunsein.com/portfolio/lego-thor/) for micro-algae farming to a [timer](https://kyawtunsein.com/portfolio/mechanical-time-water-bottle/) to increase daily water intake. After working on electronics, I realize that the software is the soul and how much my life is improved because of all the software I am currently using. That leads me to learn to code and I feel the same joy I have when building physical things! I am continuously learning not just about coding but also about software craftsmanship.
+I love technology and design. My dream is to build products that benefit millions of people. Before Makers Academy, I enjoy making physical things. I built a wide range of things from a [bioreactor](https://kyawtunsein.com/portfolio/lego-thor/) for micro-algae farming to a [timer](https://kyawtunsein.com/portfolio/mechanical-time-water-bottle/) to increase daily water intake.
+
+After working on electronics, I realize that the software is the soul and how much my life is improved because of all the software I am currently using. That leads me to learn to code. I feel the same joy I have when building physical things! I am continuously learning not just about coding but also about software craftsmanship.
 
 ## Projects
 
@@ -24,7 +26,7 @@ Project | Description | Timeframe | Technologies
 
 *Graduate Manufacturing Engineer*
 
-**Gilber Gilkes and Gordon** (March 2015 to April 2015)
+**Gilbert Gilkes and Gordon** (March 2015 to April 2015)
 
 *Systems Engineer Intern*
 
