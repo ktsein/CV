@@ -1,26 +1,32 @@
 ## Kyaw Tun Sein
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Porfolio] (https://kyawtunsein.com/portfolio/) | [LinkedIn] (https://uk.linkedin.com/in/kyawtunsein)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Porfolio] (https://kyawtunsein.com/portfolio/) | [LinkedIn] (https://uk.linkedin.com/in/kyawtunsein)
 
-I am Kyaw.
-
-##Skills
-
-#### Skill 1
-
-
-#### Skill 2
-
-
-#### Skill 3
-
+I love technology and design. My dream is to build products that benefit millions of people. Before Makers Academy, I enjoy making physical things. I built a wide range of things from a [bioreactor](https://kyawtunsein.com/portfolio/lego-thor/) for micro-algae farming to a [timer](https://kyawtunsein.com/portfolio/mechanical-time-water-bottle/) to increase daily water intake. After working on electronics, I realize that the software is the soul and how much my life is improved because of all the software I am currently using. That leads me to learn to code and I feel the same joy I have when building physical things! I am continuously learning not just about coding but also about software craftsmanship.
 
 ## Projects
 
-Project | Description | Timeframe | Technologies | Testing
-------------- | ----------- | --------------------- | ------------ | -------
-[FloatingPointVR](https://www.youtube.com/watch?v=XFBpKRfyup4)| Virtual Reality City Building Game| 10 days | C#|
-[WakeyWakey](https://github.com/meeshyep/Wakey-Wakey-)| Alarm Clock App without Switch Off Button | 5 days | React Native | Jest
+Project | Description | Timeframe | Technologies
+------------- | ----------- | --------------------- | ------------
+[FloatingPointVR](https://www.youtube.com/watch?v=XFBpKRfyup4)| Virtual Reality City Building Game| 10 days | C#, Unity
+[WakeyWakey](https://github.com/meeshyep/Wakey-Wakey-)| Alarm Clock App without Switch Off Button | 5 days | React Native
+[DoList](https://github.com/ktsein/To-Do-List-App)| To-Do List Web App | 2 days | Javascript
+[Gryphos](https://kyawtunsein.com/portfolio/multi-biometric-wearable)| Biometric Wearable | 20 days | Arduino
+[REVR](https://www.youtube.com/watch?v=H5ukUG0USYs&t=78s)| 360° Virtual Tour App | 1 day | C#, Unity
+
+## Experience
+
+**FabLab London** (June 2016 to August 2016)
+
+*Maker in Residence*
+
+**Croft Filters** (April 2015 to February 2016)
+
+*Graduate Manufacturing Engineer*
+
+**Gilber Gilkes and Gordon** (March 2015 to April 2015)
+
+*Systems Engineer Intern*
 
 ## Education
 
@@ -44,17 +50,3 @@ A 16-week full stack web development bootcamp
 **BEng Mechanical Engineering**
 
 *First-class honours*
-
-## Experience
-
-**FabLab London** (June 2016 to August 2016)
-
-*Maker in Residence*
-
-**Croft Filters** (April 2015 to February 2016)
-
-*Graduate Manufacturing Engineer*
-
-**Gilber Gilkes and Gordon** (March 2015 to April 2015)
-
-*Systems Engineer Intern*
